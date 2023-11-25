@@ -1,6 +1,6 @@
 import datetime
 import jwt
-SECRET_KEY = 'python_jwt'
+SECRET_KEY = ''
 json_data = {
     "sender": "Python JWT",
     "message": "Testing Python JWT",

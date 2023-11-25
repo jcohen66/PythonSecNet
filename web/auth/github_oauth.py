@@ -1,5 +1,5 @@
-CLIENT_ID="bf0c7fe20a5df4a81804"
-CLIENT_SECRET="04fcca19d2798fb0c9e77cfc0d68c5e99ee8946d"
+CLIENT_ID=""
+CLIENT_SECRET=""
 
 from requests_oauthlib import OAuth2Session
 import json
