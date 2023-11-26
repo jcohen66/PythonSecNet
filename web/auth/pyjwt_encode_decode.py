@@ -2,7 +2,7 @@ import datetime
 import jwt
 SECRET_KEY = ''
 json_data = {
-    "sender": "Python JWT",
+    "sender": "Python JWT",d
     "message": "Testing Python JWT",
     "date": str(datetime.datetime.now()),
     "exp": datetime.datetime.utcnow() + datetime.timedelta(seconds=1)
